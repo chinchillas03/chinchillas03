@@ -26,7 +26,7 @@
 
 ### ⚙️ Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,csharp,dotnet" />
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,dotnet" />
 </p>
 
 ### 🗄️ Bases de datos
@@ -41,5 +41,5 @@
 
 ### 🎨 Diseño y otros
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,ps,blender,firebase,arduino,vscode,idea" />
+  <img src="https://skillicons.dev/icons?i=figma,vscode" />
 </p>
